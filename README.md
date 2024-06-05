@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hola !!<br>Soy Sebastián un programador de Data Science con muchas ganas de aprender y mejorar, llevo relativamente poco en el mundo de la programación, pero hasta el momento todo lo que he aprendido y conocido ha hecho que me enamore mas de este sector.<br>Mi objetivo siempre será aprender un poco mas cada día, absorbiendo el máximo conocimiento posible de cada persona, proyecto y empresa donde tenga la suerte de encontrarme.<br><br><br>
 
-![https://github.com/SebastianGH20](https://imgv3.fotor.com/images/homepage-feature-card/PNG-de-coches.jpg)
+![https://github.com/SebastianGH20]([https://imgv3.fotor.com/images/homepage-feature-card/PNG-de-coches.jpg](https://images.playground.com/0b9a4f9b71264bfcb327bdd7eb7e7e75.jpeg))
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sebastian-gonzalez-hincapie/) 
