@@ -21,7 +21,7 @@
       </p>
     </td>
     <td style="width:10%; vertical-align:top;">
-      <img src="https://github.com/SebastianGH20/SebastianGH20/blob/main/ezgif.com-animated-gif-maker.gif" alt="GIF" style="width: 50px; height: auto;" />
+      <img src="https://github.com/SebastianGH20/SebastianGH20/blob/main/ezgif.com-animated-gif-maker.gif" alt="GIF" style="width: 10px; height: auto;" />
     </td>
   </tr>
 </table>
