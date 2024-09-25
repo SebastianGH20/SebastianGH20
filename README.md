@@ -1,7 +1,7 @@
 ![https://github.com/SebastianGH20](https://github.com/SebastianGH20/SebastianGH20/blob/main/Portada%20de%20Facebook%20Empresa%203D%20Azul%20(4).jpg)
 
-<div style="display: flex; flex-direction: row; align-items: flex-start;">
-  <div style="flex: 1;">
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1; padding-right: 20px;">
     <h1>💫 Acerca de mí</h1>
     <p>¡Hola! Soy Sebastián<br><br>
     Soy un apasionado programador especializado en Data Science, siempre enfocado en el <br>
@@ -19,10 +19,11 @@
     mostrando mi capacidad para aplicar estos conceptos en situaciones prácticas.
     </p>
   </div>
-  <div style="flex: 0 0 300px; margin-left: 20px;">
-    <img src="https://github.com/SebastianGH20/SebastianGH20/blob/main/ezgif.com-animated-gif-maker.gif" alt="GIF" style="max-width: 100%; height: auto;" />
+  <div style="flex-shrink: 0; width: 200px; height: auto;">
+    <img src="https://github.com/SebastianGH20/SebastianGH20/blob/main/ezgif.com-animated-gif-maker.gif" alt="GIF" style="width: 100%; height: auto;" />
   </div>
 </div>
+
 
 
 
