@@ -1,28 +1,31 @@
 ![https://github.com/SebastianGH20](https://github.com/SebastianGH20/SebastianGH20/blob/main/Portada%20de%20Facebook%20Empresa%203D%20Azul%20(4).jpg)
 
-<div style="display: flex; align-items: flex-start;">
-  <div style="flex: 0 0 30%; padding-right: 20px;">
-    <h1>💫 Acerca de mí</h1>
-    <p>¡Hola! Soy Sebastián<br><br>
-    Soy un apasionado programador especializado en Data Science, siempre enfocado en el <br>
-    aprendizaje continuo y la mejora constante. Aunque llevo poco tiempo en el mundo de la<br>
-    programación, cada nuevo conocimiento y experiencia ha reforzado mi entusiasmo por este sector. <br>
-    Mi objetivo es seguir creciendo día a día, aprovechando cada oportunidad para aprender <br>
-    de las personas, proyectos y empresas con las que tengo la suerte de colaborar.<br><br>
-    Recientemente, completé un bootcamp intensivo de Data Science y Machine Learning en 4Geeks<br>
-    Academy, donde adquirí experiencia práctica en NumPy, Pandas, Matplotlib y scikit-learn. <br>
-    Estos conocimientos me han permitido desarrollar proyectos interesantes como web scraping, <br>
-    integración de APIs y el despliegue de modelos de Machine Learning utilizando Flask y Streamlit.<br><br>
-    Uno de los proyectos más destacados en mi GitHub es un Generador de Géneros Descriptivos, <br>
-    donde desarrollé un modelo de deep learning para clasificar y predecir géneros musicales usando<br>
-    datos de Spotify. Este proyecto me permitió trabajar con redes neuronales e integrar APIs,<br>
-    mostrando mi capacidad para aplicar estos conceptos en situaciones prácticas.
-    </p>
-  </div>
-  <div style="flex-shrink: 0; width: 50px; height: auto;">
-    <img src="https://github.com/SebastianGH20/SebastianGH20/blob/main/ezgif.com-animated-gif-maker.gif" alt="GIF" style="width: 50%; height: auto;" />
-  </div>
-</div>
+<table>
+  <tr>
+    <td style="width:70%;">
+      <h1>💫 Acerca de mí</h1>
+      <p>¡Hola! Soy Sebastián<br><br>
+      Soy un apasionado programador especializado en Data Science, siempre enfocado en el <br>
+      aprendizaje continuo y la mejora constante. Aunque llevo poco tiempo en el mundo de la<br>
+      programación, cada nuevo conocimiento y experiencia ha reforzado mi entusiasmo por este sector. <br>
+      Mi objetivo es seguir creciendo día a día, aprovechando cada oportunidad para aprender <br>
+      de las personas, proyectos y empresas con las que tengo la suerte de colaborar.<br><br>
+      Recientemente, completé un bootcamp intensivo de Data Science y Machine Learning en 4Geeks<br>
+      Academy, donde adquirí experiencia práctica en NumPy, Pandas, Matplotlib y scikit-learn. <br>
+      Estos conocimientos me han permitido desarrollar proyectos interesantes como web scraping, <br>
+      integración de APIs y el despliegue de modelos de Machine Learning utilizando Flask y Streamlit.<br><br>
+      Uno de los proyectos más destacados en mi GitHub es un Generador de Géneros Descriptivos, <br>
+      donde desarrollé un modelo de deep learning para clasificar y predecir géneros musicales usando<br>
+      datos de Spotify. Este proyecto me permitió trabajar con redes neuronales e integrar APIs,<br>
+      mostrando mi capacidad para aplicar estos conceptos en situaciones prácticas.
+      </p>
+    </td>
+    <td style="width:30%; vertical-align:top;">
+      <img src="https://github.com/SebastianGH20/SebastianGH20/blob/main/ezgif.com-animated-gif-maker.gif" alt="GIF" style="width: 150px; height: auto;" />
+    </td>
+  </tr>
+</table>
+
 
 
 
