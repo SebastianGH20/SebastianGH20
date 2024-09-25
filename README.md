@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td style="width:100%;">
+    <td style="width:150%;">
       <h1>💫 Acerca de mí</h1>
       <p>¡Hola! Soy Sebastián<br><br>
       Soy un apasionado programador especializado en Data Science, siempre enfocado en el <br>
