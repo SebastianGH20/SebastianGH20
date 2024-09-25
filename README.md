@@ -20,7 +20,7 @@
     </p>
   </div>
   <div style="width: 35%;">
-    <img src="URL-del-GIF" alt="GIF" width="100%" />
+    <img src="[URL-del-GIF](https://github.com/SebastianGH20/SebastianGH20/blob/main/ezgif.com-animated-gif-maker.gif)" alt="GIF" width="100%" />
   </div>
 </div>
 
