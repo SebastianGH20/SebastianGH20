@@ -20,7 +20,7 @@
     </p>
   </div>
   <div style="flex-shrink: 0; width: 200px; height: auto;">
-    <img src="https://github.com/SebastianGH20/SebastianGH20/blob/main/ezgif.com-animated-gif-maker.gif" alt="GIF" style="width: 100%; height: auto;" />
+    <img src="https://github.com/SebastianGH20/SebastianGH20/blob/main/ezgif.com-animated-gif-maker.gif" alt="GIF" style="width: 50%; height: auto;" />
   </div>
 </div>
 
