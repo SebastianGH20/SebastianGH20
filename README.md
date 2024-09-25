@@ -20,7 +20,7 @@
       mostrando mi capacidad para aplicar estos conceptos en situaciones prácticas.
       </p>
     </td>
-    <td style="width:30%; vertical-align:top;">
+    <td style="width:10%; vertical-align:top;">
       <img src="https://github.com/SebastianGH20/SebastianGH20/blob/main/ezgif.com-animated-gif-maker.gif" alt="GIF" style="width: 50px; height: auto;" />
     </td>
   </tr>
