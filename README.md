@@ -1,28 +1,29 @@
 ![https://github.com/SebastianGH20](https://github.com/SebastianGH20/SebastianGH20/blob/main/Portada%20de%20Facebook%20Empresa%203D%20Azul%20(4).jpg)
 
-<div style="display: flex; align-items: flex-start;">
-  <div style="flex: 1; padding-right: 20px; text-align: justify;">
-    <h1>💫 Acerca de mí</h1>
-    <p>¡Hola! Soy Sebastián<br><br>
-    Soy un apasionado programador especializado en Data Science, siempre enfocado en el 
-    aprendizaje continuo y la mejora constante. Aunque llevo poco tiempo en el mundo de la 
-    programación, cada nuevo conocimiento y experiencia ha reforzado mi entusiasmo por este sector. 
-    Mi objetivo es seguir creciendo día a día, aprovechando cada oportunidad para aprender 
-    de las personas, proyectos y empresas con las que tengo la suerte de colaborar.<br><br>
-    Recientemente, completé un bootcamp intensivo de Data Science y Machine Learning en 4Geeks 
-    Academy, donde adquirí experiencia práctica en NumPy, Pandas, Matplotlib y scikit-learn. 
-    Estos conocimientos me han permitido desarrollar proyectos interesantes como web scraping, 
-    integración de APIs y el despliegue de modelos de Machine Learning utilizando Flask y Streamlit.<br><br>
-    Uno de los proyectos más destacados en mi GitHub es un Generador de Géneros Descriptivos, 
-    donde desarrollé un modelo de deep learning para clasificar y predecir géneros musicales usando 
-    datos de Spotify. Este proyecto me permitió trabajar con redes neuronales e integrar APIs, 
-    mostrando mi capacidad para aplicar estos conceptos en situaciones prácticas.
-    </p>
-  </div>
-  <div style="flex-shrink: 0; width: 200px; height: auto; margin-left: 20px;">
-    <img src="https://github.com/SebastianGH20/SebastianGH20/blob/main/ezgif.com-animated-gif-maker.gif" alt="GIF" style="width: 200px; height: auto;" />
-  </div>
-</div>
+<h2> ¡Hola! Soy Sebastián <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
+<!-- GIF alineado a la derecha -->
+<img align='right' src="https://github.com/SebastianGH20/SebastianGH20/blob/main/ezgif.com-animated-gif-maker.gif" width="230">
+
+<!-- Descripción breve -->
+<p><em>Data Science Enthusiast <br> Bootcamp Grad at <a href="https://4geeksacademy.com">4Geeks Academy</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
+
+<!-- Botones para redes sociales -->
+[![Twitter: TuUsuario](https://img.shields.io/twitter/follow/TuUsuario?style=social)](https://twitter.com/TuUsuario)
+[![Linkedin: TuLinkedin](https://img.shields.io/badge/-TuLinkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tu-linkedin/)](https://www.linkedin.com/in/tu-linkedin/)
+[![GitHub SebastianGH20](https://img.shields.io/github/followers/SebastianGH20?label=follow&style=social)](https://github.com/SebastianGH20)
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Un poco más sobre mí...
+
+```javascript
+const sebastian = {
+  pronouns: "he" | "him",
+  code: [Python, SQL, HTML, CSS, JavaScript],
+  tools: [Pandas, Numpy, Flask, Streamlit, Git, GitHub],
+  skills: ["data-analysis", "machine-learning", "web-scraping"],
+  hobbies: ["music", "technology", "continuous-learning"],
+  challenge: "Improving my skills in Data Science and building exciting projects!"
+}
 
 
 ## 🌐 Socials:
