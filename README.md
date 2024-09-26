@@ -32,9 +32,7 @@ donde desarrollé un modelo de deep learning para clasificar y predecir géneros
 datos de Spotify. Este proyecto me permitió trabajar con redes neuronales e integrar APIs, 
 mostrando mi capacidad para aplicar estos conceptos en situaciones prácticas.
 }
-
----
-
+```
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sebastian-gonzalez-hincapie/) 
 
