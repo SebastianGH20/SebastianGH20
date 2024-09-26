@@ -18,20 +18,29 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Un poco más sobre mí...
 
 ```javascript
-Soy un apasionado programador especializado en Data Science, siempre enfocado en el 
-aprendizaje continuo y la mejora constante. Aunque llevo poco tiempo en el mundo de la 
-programación, cada nuevo conocimiento y experiencia ha reforzado mi entusiasmo por este sector. 
-Mi objetivo es seguir creciendo día a día, aprovechando cada oportunidad para aprender 
-de las personas, proyectos y empresas con las que tengo la suerte de colaborar.<br><br>
-Recientemente, completé un bootcamp intensivo de Data Science y Machine Learning en 4Geeks 
-Academy, donde adquirí experiencia práctica en NumPy, Pandas, Matplotlib y scikit-learn. 
-Estos conocimientos me han permitido desarrollar proyectos interesantes como web scraping, 
-integración de APIs y el despliegue de modelos de Machine Learning utilizando Flask y Streamlit.<br><br>
-Uno de los proyectos más destacados en mi GitHub es un Generador de Géneros Descriptivos, 
-donde desarrollé un modelo de deep learning para clasificar y predecir géneros musicales usando 
-datos de Spotify. Este proyecto me permitió trabajar con redes neuronales e integrar APIs, 
-mostrando mi capacidad para aplicar estos conceptos en situaciones prácticas.
+sebastian = {
+    "name": "Sebastián",
+    "specialization": "Data Science",
+    "focus": ["Aprendizaje continuo", "Mejora constante"],
+    "experience": {
+        "description": "Apasionado programador especializado en Data Science.",
+        "journey": "Llevo relativamente poco tiempo en programación, "
+                   "pero cada nuevo conocimiento y experiencia refuerzan mi entusiasmo por el sector.",
+        "goal": "Seguir creciendo día a día, aprendiendo de personas, proyectos y empresas."
+    },
+    "education": {
+        "bootcamp": "4Geeks Academy",
+        "skills_acquired": ["NumPy", "Pandas", "Matplotlib", "scikit-learn", "Web scraping", "Flask", "Streamlit"
+                            "Python", "Machine_Learning", "SQL", "Git", "Github", "Markdown", "User Stories", "Data-Modeling", "Data-Structures"]
+       
+    },
+    "projects": {
+        "highlight": "Clasificador de géneros musicales",
+        "description": "Modelo de deep learning para clasificar y predecir géneros musicales usando datos de Spotify.",
+        "concepts_applied": ["redes neuronales", "integración de APIs"]
+    }
 }
+
 ```
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sebastian-gonzalez-hincapie/) 
