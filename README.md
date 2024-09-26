@@ -11,7 +11,6 @@
 <p><em>Data Science Enthusiast <br> Bootcamp Grad at <a href="https://4geeksacademy.com">4Geeks Academy</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
 
 <!-- Botones para redes sociales -->
-[![Twitter: TuUsuario](https://img.shields.io/twitter/follow/TuUsuario?style=social)](https://twitter.com/TuUsuario)
 [![Linkedin: TuLinkedin](https://img.shields.io/badge/-TuLinkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tu-linkedin/)](https://www.linkedin.com/in/sebastian-gonzalez-hincapie/)
 [![GitHub SebastianGH20](https://img.shields.io/github/followers/SebastianGH20?label=follow&style=social)](https://github.com/SebastianGH20)
 
