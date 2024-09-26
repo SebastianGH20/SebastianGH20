@@ -2,7 +2,7 @@
 ![https://github.com/SebastianGH20](https://github.com/SebastianGH20/SebastianGH20/blob/main/Portada%20de%20Facebook%20Empresa%203D%20Azul%20(4).jpg)
 
 <!-- Encabezado personalizado -->
-<h2> ¡Hola! Soy Sebastián <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> ¡Hola! Soy Sebastián <img src="https://github.com/SebastianGH20/SebastianGH20/blob/main/giphy5.gif" width="50"></h2>
 
 <!-- GIF alineado a la derecha -->
 <img align='right' src="https://github.com/SebastianGH20/SebastianGH20/blob/main/ezgif.com-animated-gif-maker.gif" width="230">
