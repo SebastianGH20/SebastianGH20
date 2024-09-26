@@ -1,5 +1,7 @@
+<!-- Portada -->
 ![https://github.com/SebastianGH20](https://github.com/SebastianGH20/SebastianGH20/blob/main/Portada%20de%20Facebook%20Empresa%203D%20Azul%20(4).jpg)
 
+<!-- Encabezado personalizado -->
 <h2> ¡Hola! Soy Sebastián <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <!-- GIF alineado a la derecha -->
@@ -16,20 +18,26 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Un poco más sobre mí...
 
 ```javascript
-const sebastian = {
-  pronouns: "he" | "him",
-  code: [Python, SQL, HTML, CSS, JavaScript],
-  tools: [Pandas, Numpy, Flask, Streamlit, Git, GitHub],
-  skills: ["data-analysis", "machine-learning", "web-scraping"],
-  hobbies: ["music", "technology", "continuous-learning"],
-  challenge: "Improving my skills in Data Science and building exciting projects!"
+Soy un apasionado programador especializado en Data Science, siempre enfocado en el 
+aprendizaje continuo y la mejora constante. Aunque llevo poco tiempo en el mundo de la 
+programación, cada nuevo conocimiento y experiencia ha reforzado mi entusiasmo por este sector. 
+Mi objetivo es seguir creciendo día a día, aprovechando cada oportunidad para aprender 
+de las personas, proyectos y empresas con las que tengo la suerte de colaborar.<br><br>
+Recientemente, completé un bootcamp intensivo de Data Science y Machine Learning en 4Geeks 
+Academy, donde adquirí experiencia práctica en NumPy, Pandas, Matplotlib y scikit-learn. 
+Estos conocimientos me han permitido desarrollar proyectos interesantes como web scraping, 
+integración de APIs y el despliegue de modelos de Machine Learning utilizando Flask y Streamlit.<br><br>
+Uno de los proyectos más destacados en mi GitHub es un Generador de Géneros Descriptivos, 
+donde desarrollé un modelo de deep learning para clasificar y predecir géneros musicales usando 
+datos de Spotify. Este proyecto me permitió trabajar con redes neuronales e integrar APIs, 
+mostrando mi capacidad para aplicar estos conceptos en situaciones prácticas.
 }
 
 
-## 🌐 Socials:
+🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sebastian-gonzalez-hincapie/) 
 
-# 💻 Tech Stack:
+💻 Tech Stack:
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SebastianGH20&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
