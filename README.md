@@ -11,6 +11,8 @@
 <p><em>Data Science Enthusiast <br> Bootcamp Grad at <a href="https://4geeksacademy.com">4Geeks Academy</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
 
 <!-- Botones para redes sociales -->
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a>
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/></a>
 [![Linkedin: TuLinkedin](https://img.shields.io/badge/-TuLinkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tu-linkedin/)](https://www.linkedin.com/in/sebastian-gonzalez-hincapie/)
 [![GitHub SebastianGH20](https://img.shields.io/github/followers/SebastianGH20?label=follow&style=social)](https://github.com/SebastianGH20)
 
